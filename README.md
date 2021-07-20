@@ -33,8 +33,7 @@
 **Ferramentas de Desenvolvimento**
 
   ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
-![WebStorm](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
- ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
  
 <br/>
