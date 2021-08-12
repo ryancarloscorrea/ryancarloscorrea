@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/ryancarloscorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancarloscorrea&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancarloscorrea&show_icons=true" />
 </a>
 
 <br/>
