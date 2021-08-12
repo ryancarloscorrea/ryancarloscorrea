@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e aprofundando conhecimentos.
 - 🎓 &nbsp; Estudando Engenharia de Software na <a href="https://www.ufms.br/">Universidade Federal de Mato Grosso do Sul (UFMS)</a>.
 - 💼 &nbsp; Trabalhando como desenvolvedor Front-end na <a href="https://www.tecsinapse.com.br/">TecSinapse</a>
 - 🌱 &nbsp; Aprendendo mais sobre React, React Native, Next.js, GraphQL e TypeScript.
@@ -18,7 +18,6 @@
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
- ![Next.js](https://img.shields.io/badge/-next-333333?style=flat)
 
 **Utilidades**
 
