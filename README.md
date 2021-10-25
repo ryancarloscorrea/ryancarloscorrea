@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=ryancarloscorrea&color=006bed)
 
+# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+ ![Snake animation](https://github.com/ryancarloscorrea/ryancarloscorrea/blob/output/github-contribution-grid-snake.svg)
+
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e aprofundando conhecimentos.
