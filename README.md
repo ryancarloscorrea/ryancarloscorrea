@@ -3,9 +3,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e aprofundando conhecimentos.
-- 🎓 &nbsp; Estudando Engenharia de Software na <a href="https://www.ufms.br/">Universidade Federal de Mato Grosso do Sul (UFMS)</a>.
-- 💼 &nbsp; Trabalhando como desenvolvedor Front-end na <a href="https://www.tecsinapse.com.br/">TecSinapse</a>
-- 🌱 &nbsp; Aprendendo mais sobre React, React Native, Next.js, GraphQL e TypeScript.
+- 🎓 &nbsp; Formado em Engenharia de Software pela <a href="https://www.ufms.br/">Universidade Federal de Mato Grosso do Sul (UFMS)</a>.
+- 💼 &nbsp; Trabalhando como Engenheiro de Software na <a href="https://www.tecsinapse.com.br/">TecSinapse</a>
+- 🌱 &nbsp; Especializado em React, React Native, GraphQL, Apollo e TypeScript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
